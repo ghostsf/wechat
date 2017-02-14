@@ -1,6 +1,6 @@
 {
-    "name": "overtrue/wechat",
-    "description": "微信SDK",
+    "name": "ghostsf/wechat",
+    "description": "ghostwechat,微信SDK",
     "keywords": [
         "wechat",
         "weixin",
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "overtrue",
-            "email": "anzhengchao@gmail.com"
+            "name": "ghostsf",
+            "email": "ghost_sf@163.com"
         }
     ],
     "require": {
