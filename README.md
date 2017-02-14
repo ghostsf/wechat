@@ -1,6 +1,7 @@
 ## ghostwechat
-> Inherit from EasyWeChat
-> Enhance for EasyWeChat
+
+ - Inherit from EasyWeChat
+ - Enhance for EasyWeChat
 
 <hr>
 
